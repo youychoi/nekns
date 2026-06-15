@@ -1,1 +1,1 @@
-Sitemap: https://youychoi.github.io/nekns/sitemap.xml
+Sitemap: http://nekns.com/sitemap.xml
