@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # Korean New England Nuclear & Fusion Network(KNEF)'s Website
+  # Korean Nuclear Energy Researcher Network(KNERN)'s Website
 
   Visit **[youychoi.github.io/knefn](https://youychoi.github.io/knefn)** 🚀
 
