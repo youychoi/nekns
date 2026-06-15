@@ -5,6 +5,6 @@
 
   # Korean Nuclear Energy Researcher Network(KNERN)'s Website
 
-  Visit **[youychoi.github.io/knefn](https://youychoi.github.io/knefn)** 🚀
+  Visit **[youychoi.github.io/knern](https://youychoi.github.io/knern)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
