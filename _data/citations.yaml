@@ -525,6 +525,21 @@
   seung-gyou-back: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.jnucmat.2026.156841
+  title: Insights into metallic helical cruciform nuclear fuel through advanced 3D
+    fuel performance
+  authors:
+  - Youyeon Choi
+  - Guillaume L. Giudicelli
+  - Kyle A. Gamble
+  - Koroush Shirvan
+  publisher: Journal of Nuclear Materials
+  date: '2026-06-01'
+  link: https://doi.org/hb8cg6
+  orcid: 0000-0001-9395-2796
+  youyeon-choi: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ijheatmasstransfer.2025.128136
   title: Numerical study on boiling crisis and fluid-elastic instability of helical
     cruciform fuel
