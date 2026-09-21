@@ -1,5 +1,60 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1088/1741-4326/aea9a8
+  title: Experimental investigation of ICRF antenna operation and plasma-wall interaction
+    in the regime of propagating slow waves in front of the antenna
+  authors:
+  - Raymond Diab
+  - Laurent Colas
+  - Seung Gyou Baek
+  - Nicolas Fedorczak
+  - Benoit Guillermin
+  - James Paul Gunn
+  - Julien Hillairet
+  - Curtis A Johnson
+  - Ernesto A Lerche
+  - Guillaume Urbanczyk
+  publisher: Nuclear Fusion
+  date: '2026-09-18'
+  link: https://doi.org/hcj8qc
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1361-6587/ae9806
+  title: Sheared poloidal plasma flows in the island divertor scrape-off layer of
+    Wendelstein 7-X
+  authors:
+  - S B Ballinger
+  - S G Baek
+  - O Grulke
+  - C Killer
+  - F Scharmer
+  - J Terry
+  - A von Stechow
+  publisher: Plasma Physics and Controlled Fusion
+  date: '2026-08-01'
+  link: https://doi.org/hcfwjw
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S0022377826101950
+  title: Interpretation of high-harmonic fast-wave propagation in the scrape-off layer
+    of NSTX-U as a geometrically bounded-waveguide mode
+  authors:
+  - Seung-Gyou Baek
+  - Nicola Bertelli
+  - Ricardo Antonio De Levante Rodriguez
+  - Paul Thaddeus Bonoli
+  - "Syun\u2019ichi Shiraiwa"
+  publisher: Journal of Plasma Physics
+  date: '2026-07-17'
+  link: https://doi.org/hcb46p
+  orcid: 0000-0001-8029-3525
+  seung-gyou-back: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1088/1741-4326/ae651c
   title: Comparison between Alcator C-Mod ICRF experiments and 3D full wave simulations
   authors:
@@ -525,6 +580,21 @@
   seung-gyou-back: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.jnucmat.2026.156841
+  title: Insights into metallic helical cruciform nuclear fuel through advanced 3D
+    fuel performance
+  authors:
+  - Youyeon Choi
+  - Guillaume L. Giudicelli
+  - Kyle A. Gamble
+  - Koroush Shirvan
+  publisher: Journal of Nuclear Materials
+  date: '2026-09-01'
+  link: https://doi.org/hb8cg6
+  orcid: 0000-0001-9395-2796
+  youyeon-choi: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ijheatmasstransfer.2025.128136
   title: Numerical study on boiling crisis and fluid-elastic instability of helical
     cruciform fuel
@@ -538,17 +608,15 @@
   youyeon-choi: true
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.2139/ssrn.6617358
-  title: '&lt;p&gt;Insights Into Metallic Helical Cruciform Nuclear Fuel Through Advanced
-    3D Fuel Performance&lt;/p&gt;'
+- id: doi:10.2139/ssrn.7139861
+  title: Full-Core Design of Helical Cruciform Fuel for Power Uprate in Water-Cooled
+    SMRs
   authors:
   - Youyeon Choi
-  - Guillaume Giudicelli
-  - Kyle Gamble
   - Koroush Shirvan
   publisher: Elsevier BV
   date: '2026-01-01'
-  link: https://doi.org/hb3fm3
+  link: https://doi.org/hcb46q
   orcid: 0000-0001-9395-2796
   youyeon-choi: true
   plugin: orcid.py
