@@ -1,1 +1,1 @@
-Sitemap: http://nekns.com/sitemap.xml
+Sitemap: https://nekns.com/sitemap.xml
